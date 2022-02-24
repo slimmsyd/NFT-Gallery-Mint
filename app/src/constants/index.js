@@ -558,7 +558,7 @@ export const abi =
     "type": "receive"
   }
 ]
- export const NFT_CONTRACT_ADDRESS_LOVELY_BONES = "0x98cA906F5124a6A73208bAFF6CEE44d0ae194FC0"
+ export const NFT_CONTRACT_ADDRESS_LOVELY_BONES = "0x7198AA877339E674d91d4476aC6211F841ee8f56"
 
 export const abi_2 = [
   {
